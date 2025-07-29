@@ -1,0 +1,25 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+}
+.partial-background {
+background-image: url('Backgrounds/Background22.jpg'); 
+background-size: cover; 
+background-position: center top; 
+background-repeat: no-repeat;
+height: 25vh; 
+width: 100%;
+}
+.OverPictureTitle{
+text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+}
+.content {
+padding: 20px;
+}
