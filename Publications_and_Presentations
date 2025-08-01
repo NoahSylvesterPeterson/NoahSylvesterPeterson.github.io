@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Noah Sylvester Peterson – Home</title>
+    <link rel="stylesheet" href="website_stile.css" />
+    <script src="js/include.js" defer></script>
+</head>
+
+
+
+<body>
+    <div class="partial-background">
+        <span class="OverPictureTitle">
+            <h1>Noah Sylvester Peterson</h1>
+            <p>Astronomer • Computer Scientist • Mathematician • Physicist</p>
+        </span>
+    </div>
+    <div class="content">
+        <div data-include="./nav.html"></div>
+        <ul>
+        <h1>Publications and Presentations</h1>
+        </li>MAGNETO-IONIZATION SPACECRAFT SHIELD FOR INTERPLANETARY TRAVEL (Oral Presentation: APS 2022 April Meeting) Presenter: Noah Peterson; Coauthors: T. Detwiler, M. Holcomb, J. Kilburg … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>MISSFIT: Monte-Carlo Simulations of Particle Trajectories in a Magnetic Field (Poster Presentation: APS 2022 April Meeting), Presenter: D. Viscarra; Coauthors: T. Detwiler, M. Holcomb, J. Kilburg … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>MAGNETO-IONIZATION SPACECRAFT SHIELD FOR INTERPLANETARY TRAVEL (Oral Presentation: APS 2022 April Meeting), Presenter: Keegan Finger; Coauthors: Keegan M Finger, Justin Brutger, … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>INTERPLANETARY RADIATION AND DUST (Poster Presentation: APS 2022 April Meeting), Presenter: Noah Peterson; Coauthors: Keegan M Finger, Justin Brutger, … Noah Peterson, et MISSFIT Collaboration. Note: I was sick for the actual presentation so Zach T Wellens gave the actual presentation in my stead. </li>
+        </li>Attenuation of Interplanetary Radiation via Novel Materials (Oral Presentation: APS 2022 April Meeting), Presenter: Keegan Finger; Coauthors: Keegan M Finger, Justin Brutger, … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>Magneto-Ionization Spacecraft Shield For Interplanetary Travel(MISSFIT): General Overview  (APS 2021 April Meeting), Coauthors: Molly McCord, David Atri, … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>Magneto-Ionization Spacecraft Shield For Interplanetary Travel (MISSFIT): Biological & Mechanical Models (APS 2021 April Meeting), Coauthors: Molly McCord, David Atri, … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>Computational methods for developing optimal attenuation of radiation for interplanetary travel(APS 2021 April Meeting), Coauthors: Molly McCord, David Atri, … Noah Peterson, et MISSFIT Collaboration</li>
+        </li>Mutual Information and the Lempel-Ziv-Welch Compression Algorithm  (Conference Paper: 2023 CCSC Central Plains Conference), Authors: Dr. Adam Case, Noah Peterson. </li>
+        </ul>
+    </div>
+</body>
+</html>
